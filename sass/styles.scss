@@ -1,0 +1,19 @@
+/* Frameworks */
+@import 'foundation';
+
+/* Styles */
+$dark-color : #333333;
+
+body {
+  background: $dark-color;
+}
+
+h1 {
+    color: #F1F1F1;
+}
+
+#boxA, #boxB, #boxC, #boxD{
+  border: 2px solid white;
+  background:teal;
+  padding: 40px;
+}
